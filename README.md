@@ -8,14 +8,14 @@ In simple terms, they want you to show how your system would actually work in a 
 
 They want these 7 things:
 
-Project overview
+##Project overview
 A short explanation of the problem and your solution.
 
-Methodology
+##Methodology
 Explain how your system works step by step.
 Example: sensors → data collection → AI models → optimization → PLC control.
 
-Technical specifications
+##Technical specifications
 Explain the real equipment and sensors involved in the plant such as
 
 • Predictive maintenance tools
@@ -27,10 +27,10 @@ Explain the real equipment and sensors involved in the plant such as
 • steam flow control
 • quality monitoring
 
-Measurement and control accuracy
+##Measurement and control accuracy
 Explain how accurate the sensors and models are and how they improve efficiency.
 
-Technology stack
+##Technology stack
 Explain the technologies used such as
 
 • AI models
@@ -40,7 +40,7 @@ Explain the technologies used such as
 • PLC integration
 • data systems
 
-Current progress
+##Current progress
 Show what you have already done
 
 • architecture design
@@ -48,7 +48,7 @@ Show what you have already done
 • system model design
 • dashboard concept
 
-Impact and scalability
+##Impact and scalability
 Explain how your idea helps the industry
 
 • reduces sugar loss
