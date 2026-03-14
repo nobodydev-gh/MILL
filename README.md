@@ -8,15 +8,24 @@ In simple terms, they want you to show how your system would actually work in a 
 
 They want these 7 things:
 
+
+
+
 **Project overview**
+
 A short explanation of the problem and your solution.
+
 **
 Methodology**
+
 Explain how your system works step by step.
+
 Example: sensors → data collection → AI models → optimization → PLC control.
 
 ##**Technical specifications**
+
 Explain the real equipment and sensors involved in the plant such as
+
 
 • Predictive maintenance tools
 • NIR spectroscopy for sugar estimation
