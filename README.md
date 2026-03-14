@@ -8,7 +8,7 @@ In simple terms, they want you to show how your system would actually work in a 
 
 They want these 7 things:
 
-##Project overview
+#Project overview
 A short explanation of the problem and your solution.
 
 ##Methodology
