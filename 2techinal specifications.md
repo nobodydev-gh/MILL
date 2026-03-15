@@ -1,3 +1,5 @@
+**Complete System Architecture / Instrumentation Layout of the Smart Sugar Mill.**
+
 1. Raw Cane and Input Monitoring
 These devices measure the quality and quantity of incoming cane.
 NIR Spectroscopy Sensor
